@@ -1,0 +1,38 @@
+name: 📚 Paper Review Template
+description: 논문 정리를 위한 template version.1.0.
+body:
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      placeholder: 개요 및 연구 목적
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: Method
+      placeholder: 논문에서 제안하는 방법론
+    validations:
+      required: true
+  - type: textarea
+    id: experiment_and_result
+    attributes:
+      label: Experiment & Result
+      placeholder: 연구 결과 요약
+    validations:
+      required: true
+  - type: textarea
+    id: insight
+    attributes:
+      label: Insight
+      placeholder: 논문의 novelty, 논문을 읽고 드는 자신의 생각(궁금증, 연구의 방향성, 적용 아이디어)
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Paper URL
+      placeholder: 논문 링크
+    validations:
+      required: true
