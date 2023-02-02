@@ -1,5 +1,5 @@
-name: 📚 Paper Review Template
-description: 논문 정리를 위한 template version.1.0.
+name: 📚 [Full] Paper Review Template
+description: [정독] 논문 정리를 위한 template version.1.0.
 body:
   - type: textarea
     id: motivation
