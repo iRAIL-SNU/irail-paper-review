@@ -22,4 +22,4 @@
 
 모든 리뷰는 [Issues](https://github.com/iRAIL-SNU/irail-paper-review/issues)를 통해 기록되어지며, issue template인 **Paper Review Template**의 양식에 따라 작성해주시길 바랍니다.
   
-Issue는 **논문 연도, 저널 혹은 컨퍼런스 이름, task, modality(medical domain의 경우)**에 대한 label과 함께, **논문 제목, Motivation, Method, Experiment & Result, Insight, 논문 링크**를 작성합니다.
+Issue는 **논문 연도, 저널 혹은 컨퍼런스 이름, task, modality(medical domain의 경우), 정독/속독** 에 대한 label과 함께, **논문 제목, Motivation, Method, Experiment & Result, Insight, 논문 링크**를 작성합니다.
